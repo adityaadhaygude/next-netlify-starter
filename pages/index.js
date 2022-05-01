@@ -13,10 +13,10 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+          
 <a src='https://www.star-clicks.com/secure/ads.php?pid=48072112052330443'>click here for ads</a>
-      </main>
+      </p>
+</main>
 
       <Footer />
     </div>
