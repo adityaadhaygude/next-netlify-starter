@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-<!--Begin: Star-Clicks.com HTML Code--><script type='text/javascript' src='https://www.star-clicks.com/secure/ads.php?pid=48072112052330443'></script><!-- End: Star-Clicks.com -->
+<a src='https://www.star-clicks.com/secure/ads.php?pid=48072112052330443'>click here for ads</a>
       </main>
 
       <Footer />
