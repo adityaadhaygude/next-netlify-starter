@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Welcome to my app!" />
         <p className="description">
           
-<a src='https://www.star-clicks.com/secure/ads.php?pid=48072112052330443'>click here for ads</a>
+<a href='https://www.star-clicks.com/secure/ads.php?pid=48072112052330443'>click here for ads</a>
       </p>
 </main>
 
