@@ -20,6 +20,6 @@ export default function Home() {
 
       <Footer />
     </div>
-    <script type='text/javascript' src='https://www.star-clicks.com/secure/ads.php?pid=48072112052330443'></script>
+    
   )
 }
